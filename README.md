@@ -13,11 +13,11 @@
 <img src="https://media.licdn.com/dms/image/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/0/1709674661110?e=2147483647&amp;v=beta&amp;t=cXi9xoqDSrGR1XANMQyOXbhjIXhnmGcj5epolciGEF4" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="width: 800px; height: 500px; margin: 0px; alt="╚· Software Engineer Project #3 ═·═ Lead Software Engineer at xtype.io ═" jsname="kn3ccd">
 </p>
 <h2 align="center">Hello there! My name is Mittul Sharma 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Masters in Information Systems @Northeastern . I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:.
+<p align="center">I'm currently a student pursuing my Masters in Information Systems @Northeastern.
 <!--   You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well.  -->
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list.</p>
 
 <!-- <p align="center"><a href="https://twitter.com/terabyte_17"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25> </a> -->
 
