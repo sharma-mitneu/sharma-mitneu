@@ -45,12 +45,12 @@
 ### 🚀 Featured Projects
 
 #### [High-Performance E-Commerce Platform](https://github.com/your-repo)
-- Spring Boot microservices with 99.9% uptime
+- Spring Boot microservices
 - Kubernetes-managed container orchestration
 - OAuth2 security implementation
 
 #### [Real-time Data Pipeline](https://github.com/your-repo) 
-- Kafka-Spark architecture processing 1M+ events/day
+- Kafka-Spark architecture
 - 40% storage optimization through data partitioning
 - Airflow-powered workflow orchestration
 
